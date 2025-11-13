@@ -1,0 +1,72 @@
+[
+    {
+        "question": "Which programming language is must for AI&DS?",
+        "options": [
+            "Rust",
+            "JavaScript",
+            "Python",
+            "HTML"
+        ],
+        "answer": "Python"
+    },
+    {
+        "question": "When we use the functions of one class into another, what concept of OOP is it?",
+        "options": [
+            "Inheritance",
+            "Constructors",
+            "Classes",
+            "Objects"
+        ],
+        "answer": "Inheritance"
+    },
+    {
+        "question": "Why is Python preferred the most in the field of AI?",
+        "options": [
+            "Because of its vast liabraries.",
+            "Easy to learn.",
+            "Interpreted language.",
+            "All of the above."
+        ],
+        "answer": "All of the above."
+    },
+    {
+        "question": "Which other language can be used instead of Python for AI development?",
+        "options": [
+            "Java",
+            "R",
+            "Javascript",
+            "Assembly"
+        ],
+        "answer": "R"
+    },
+    {
+        "question": "Who is the founder of Apple?",
+        "options": [
+            "Tim Cook",
+            "Sundar Pichai",
+            "Elon Musk",
+            "Steve Jobs"
+        ],
+        "answer": "Steve Jobs"
+    },
+    {
+        "question": "Who created WWW?",
+        "options": [
+            "Tim Berners Lee",
+            "Nikola Tesla",
+            "Guido Van Rossum",
+            "Linus Trovald"
+        ],
+        "answer": "Tim Berners Lee"
+    },
+    {
+        "question": "Which is the best Christopher Nolan Movie?",
+        "options": [
+            "Intersteller",
+            "Inception",
+            "Memento",
+            "It's NOLAN man, all of the above"
+        ],
+        "answer": "It's NOLAN man, all of the above"
+    }
+]
